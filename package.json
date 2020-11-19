@@ -1,0 +1,13 @@
+{
+  "name": "JamstackTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sumairq/JamstackTodo.git",
+  "author": "Sumair <sumairqaisar992@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces":[
+    "packages/*"
+  ]
+
+}
